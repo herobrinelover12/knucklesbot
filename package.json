@@ -1,0 +1,7 @@
+{
+  "name": "knucklesbot",
+  "version": "1.0.0",
+  "dependencies": {
+    "eris": "^0.8.5"
+  }
+}
